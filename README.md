@@ -1,7 +1,7 @@
 # [Projeto - 00] Vinicius Vieira Viana
 
 ## Description:
-Student, inrolled in the Computer Science course - UNIOESTE, 20yo.
+Student, inrolled in the Computer Science course - UNIOESTE, 21yo.
 
 ## Knowledge (some under construction):
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
